@@ -10,7 +10,7 @@ This project provides an API to analyze stock market data, specifically focusing
 
 - **Data Collection**: Automatically scrapes Yahoo Finance for trending stocks, gainers, and most active securities
 - **Price Target Analysis**: Fetches analyst price targets using the yfinance library
-- **Undervalued Stock Detection**: Identifies stocks trading below their analyst price targets
+- **Undervalued Stock Detection**: Shows stocks trading below their analyst price targets
 - **Flexible Filtering**: Multiple parameters for filtering results (volume, price range, target price differences)
 - **RESTful API**: Clean, well-documented FastAPI endpoints
 
